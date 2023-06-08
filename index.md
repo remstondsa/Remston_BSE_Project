@@ -1,9 +1,9 @@
-# Project Name Here
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
+# Self Driving Car
+In this project, I have built a self-driving car using an Arduino UNO and Sunfounder's IoT kit. The goal of the project is to create a small-scale autonomous vehicle that can navigate a predefined track without human intervention. The car is equipped with sensors and actuators to detect and respond to its environment, allowing it to follow the track, avoid obstacles, and make decisions on its own.
 
-| **Engineer** | **School** | **Area of Interest** | **Grade** |
+| **Engineer** | **School** | **Area of Interest** | **Degree** |
 |:--:|:--:|:--:|:--:|
-| FirstName LastInitialOnly | School Name | Electrical Engineering | Incoming Senior
+| Remston D. | New York University | Computer Science | Master of Science
 
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
