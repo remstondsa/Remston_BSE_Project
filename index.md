@@ -5,7 +5,7 @@ In this project, I have built a self-driving car using an Arduino UNO and Sunfou
 |:--:|:--:|:--:|:--:|
 | Remston D. | New York University | Computer Science | Master of Science
 
-**HERE IS THE SELF-DRIVING CAR THAT I BUILT USING ARDUINO AND SUNFOUNDER'S TOOL KIT**
+**Here is an autonomous self-driving car that I built using ARDUINO UNO and SUNFOUNDER'S tool kit**
 
 ![Self-Driving Car Image](car.png)
   
