@@ -10,26 +10,51 @@ In this project, I have built a self-driving car using an Arduino UNO and Sunfou
 ![Headstone Image](logo.svg)
   
 # Final Milestone
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
+Since the previous milestone, several accomplishments have been made in the self-driving car project:
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+    1. Implementation of the self-driving functionality: The code was successfully uploaded, and the car can now drive autonomously. It utilizes the IR obstacle avoidance modules and the ultrasonic module to detect and avoid obstacles during its movement.
+    2. Enhanced obstacle avoidance capabilities: The car is programmed to respond appropriately when obstacles are detected. It can back up, adjust its direction, and continue moving forward while avoiding collisions.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Challenges and Triumphs:
+
+    1. Challenges: One of the main challenges faced during this project was fine-tuning the obstacle detection and avoidance algorithm. Ensuring reliable obstacle detection and designing an effective evasion strategy required experimentation and iterative improvements.
+    2. Triumphs: Overcoming the challenges and achieving a functional self-driving car was a significant triumph. The successful integration of different components, such as the IR modules and ultrasonic module, and the development of the control logic to navigate the car autonomously were notable accomplishments.
+
+Key Topics Learned:
+
+    1. Hardware integration: Understanding how to connect and wire different hardware components, such as motors, sensors, and microcontrollers, to create a functional system.
+    2. Sensor integration and data processing: Learning how to interface with sensors, read their data, and process it to make informed decisions and control the car's movements.
+    3. Algorithm design: Designing algorithms and control logic to enable autonomous behavior, obstacle detection, and evasion strategies.
+
+Future Learning Goals:
+
+After completing the self-driving car project at BSE, there are several areas to explore and learn further:
+
+    1. Advanced autonomous navigation: Diving deeper into advanced algorithms and techniques for autonomous navigation, including path planning, mapping, and localization.
+    2. Machine learning for self-driving cars: Exploring machine learning approaches, such as deep learning and reinforcement learning, to enhance the car's perception and decision-making capabilities.
+    3. Real-world applications: Applying the knowledge gained to real-world scenarios and challenges, such as developing self-driving car prototypes for specific environments or tasks.
+
+By continuing to explore these areas, I hope to deepen my understanding of autonomous systems, contribute to the field of self-driving technology, and stay up to date with the latest advancements in the industry.
+
+
+
+
+
+
+
+<!-- **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
 # Second Milestone
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
+- Technical Details: Since the first milestone, I have focused on the technical aspects of the self-driving car project. I have successfully wired the components, including motors, sensors, and the Arduino UNO, ensuring proper connections for power and signals. I have also written code to control the car's movements based on sensor inputs, incorporating obstacle detection and avoidance logic using the ultrasonic module and IR obstacle avoidance modules.
+- Surprising Discoveries: Throughout the project, I have been pleasantly surprised by the capabilities of the components and the effectiveness of the implemented algorithms. Seeing the car autonomously detect and avoid obstacles has been a rewarding experience.
+- Overcoming Challenges: In the second milestone, I faced challenges in wiring the components correctly and ensuring reliable connections. However, by carefully following the instructions and double-checking the connections, I was able to overcome these challenges and establish a solid hardware setup.
+- Remaining Tasks: Before the final milestone, there are a few tasks that need to be completed. Firstly, I need to calibrate the sensors to ensure accurate readings and fine-tune the code for optimal performance. Additionally, comprehensive testing in various scenarios will be conducted to identify any potential issues or limitations that need to be addressed. Finally, I will iterate on the project to further improve its capabilities and refine the self-driving functionality.
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+<!-- **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
 # First Milestone: Self-Driving Car Assembly and Basic Functionality
 - Technical Progress:
@@ -51,29 +76,120 @@ One of the challenges faced in the first milestone was ensuring proper alignment
         3. Calibration and Testing: Calibrate the sensors to ensure accurate readings and test the car's functionality in different scenarios. Fine-tune the code and make any necessary adjustments to achieve optimal performance.
         4. Iterative Improvement: Continuously refine and improve the self-driving car's capabilities, incorporating feedback and addressing any issues or limitations encountered during testing.
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+<!-- **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z8zcQtiViqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
-# Schematics 
-Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
+<!-- # Schematics 
+Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser.  -->
 
 # Code
-Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
-
+The car will drive freely once the code has been uploaded successfully. When the IR obstruction module on both sides detects an obstacle, it will move in the opposite direction for emergency evasion; if there is an obstacle within 2~10cm directly in front of the car, it will back up to the left, adjust its direction, and then move forward.
 ```c++
+const int in1 = 5;
+const int in2 = 6;
+const int in3 = 9;
+const int in4 = 10;
+
+const int echoPin = 4;
+const int trigPin = 3;
+
+const int rightIR = 7;
+const int leftIR = 8;
+
+float readSensorData() {
+  digitalWrite(trigPin, LOW);
+  delayMicroseconds(2);
+  digitalWrite(trigPin, HIGH);
+  delayMicroseconds(10);
+  digitalWrite(trigPin, LOW);
+  float distance = pulseIn(echoPin, HIGH) / 58.00; //Equivalent to (340m/s*1us)/2
+  return distance;
+}
+
+
+void moveForward(int speed) {
+  analogWrite(in1, 0);
+  analogWrite(in2, speed);
+  analogWrite(in3, speed);
+  analogWrite(in4, 0);
+}
+
+void moveBackward(int speed) {
+  analogWrite(in1, speed);
+  analogWrite(in2, 0);
+  analogWrite(in3, 0);
+  analogWrite(in4, speed);
+}
+
+
+void backLeft(int speed) {
+  analogWrite(in1, speed);
+  analogWrite(in2, 0);
+  analogWrite(in3, 0);
+  analogWrite(in4, 0);
+}
+
+void backRight(int speed) {
+  analogWrite(in1, 0);
+  analogWrite(in2, 0);
+  analogWrite(in3, 0);
+  analogWrite(in4, speed);
+}
+
+void stopMove() {
+  analogWrite(in1, 0);
+  analogWrite(in2, 0);
+  analogWrite(in3, 0);
+  analogWrite(in4, 0);
+}
+
 void setup() {
-  // put your setup code here, to run once:
   Serial.begin(9600);
-  Serial.println("Hello World!");
+
+  //motor
+  pinMode(in1, OUTPUT);
+  pinMode(in2, OUTPUT);
+  pinMode(in3, OUTPUT);
+  pinMode(in4, OUTPUT);
+
+  //ultrasonic
+  pinMode(echoPin, INPUT);
+  pinMode(trigPin, OUTPUT);
+
+  //IR obstacle
+  pinMode(leftIR, INPUT);
+  pinMode(rightIR, INPUT);
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
 
+  int left = digitalRead(leftIR);  // 0: Obstructed   1: Empty
+  int right = digitalRead(rightIR);
+
+  if (!left && right) {
+    backLeft(150);
+  } else if (left && !right) {
+    backRight(150);
+  } else if (!left && !right) {
+    moveBackward(150);
+  } else {
+    float distance = readSensorData();
+    Serial.println(distance);
+    if (distance > 50) { // Safe
+      moveForward(200);
+    } else if (distance < 10 && distance > 2) { // Attention
+      moveBackward(200);
+      delay(1000);
+      backLeft(150);
+      delay(500);
+    } else {
+      moveForward(150);
+    }
+  }
 }
 ```
-
+<!-- 
 # Bill of Materials
 Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
 Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. 
@@ -93,4 +209,4 @@ One of the best parts about Github is that you can view how other people set up 
 - [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
 - [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
 
-To watch the BSE tutorial on how to create a portfolio, click here.
+To watch the BSE tutorial on how to create a portfolio, click here. -->
