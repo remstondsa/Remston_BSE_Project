@@ -5,9 +5,9 @@ In this project, I have built a self-driving car using an Arduino UNO and Sunfou
 |:--:|:--:|:--:|:--:|
 | Remston D. | New York University | Computer Science | Master of Science
 
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
+**HERE IS THE SELF-DRIVING CAR THAT I BUILT USING ARDUINO AND SUNFOUNDER'S TOOL KIT**
 
-![Headstone Image](logo.svg)
+![Self-Driving Car Image](car.png)
   
 # Final Milestone
 Since the previous milestone, several accomplishments have been made in the self-driving car project:
