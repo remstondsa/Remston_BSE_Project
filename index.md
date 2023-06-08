@@ -31,12 +31,25 @@ For your second milestone, explain what you've worked on since your previous mil
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-# First Milestone
-For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
+# First Milestone: Self-Driving Car Assembly and Basic Functionality
+- Technical Progress:
+In the first milestone, the focus was on assembling the car chassis and establishing basic functionality. The car chassis was assembled following the provided instructions, including mounting the motors, wheels, L298N module, IR obstacle avoidance modules, and the Line Track module. The Arduino UNO was also integrated into the car.
+- Challenges and Future Milestones:
+One of the challenges faced in the first milestone was ensuring proper alignment and attachment of the components to the chassis. This required careful following of the assembly instructions and attention to detail.
+- In future milestones, the challenges to be addressed include:
+
+        1. Wiring the components correctly and ensuring reliable connections.
+        2. Writing code to control the car's movements, obstacle detection, and avoidance.
+        3. Calibrating the sensors for accurate readings.
+        4. Testing and fine-tuning the car's performance to achieve smooth and efficient self-driving capabilities.
+
+- Plan to Complete the Project:
+  To complete the project, the following steps will be taken in subsequent milestones:
+
+        1. Wiring: Properly connect the components, including motors, sensors, and the Arduino UNO, ensuring correct power supply and signal connections.
+        2. Coding: Write the necessary code to control the car's movements based on sensor inputs. This includes implementing obstacle detection and avoidance logic using the ultrasonic module and IR obstacle avoidance modules.
+        3. Calibration and Testing: Calibrate the sensors to ensure accurate readings and test the car's functionality in different scenarios. Fine-tune the code and make any necessary adjustments to achieve optimal performance.
+        4. Iterative Improvement: Continuously refine and improve the self-driving car's capabilities, incorporating feedback and addressing any issues or limitations encountered during testing.
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
