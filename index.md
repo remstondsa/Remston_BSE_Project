@@ -1,4 +1,4 @@
-# Self Driving Car
+# Self-Driving Car
 In this project, I have built a self-driving car using an Arduino UNO and Sunfounder's IoT kit. The goal of the project is to create a small-scale autonomous vehicle that can navigate a predefined track without human intervention. The car is equipped with sensors and actuators to detect and respond to its environment, allowing it to follow the track, avoid obstacles, and make decisions on its own.
 
 | **Engineer** | **School** | **Area of Interest** | **Degree** |
